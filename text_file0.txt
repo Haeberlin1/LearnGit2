@@ -1,1 +1,3 @@
 This is the first entry of this example text file
+
+Here I am, editing the file to practice the fetch and pull git commands.
